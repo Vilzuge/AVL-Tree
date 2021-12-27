@@ -1,7 +1,6 @@
-# avl-tasapainoittuva
-Tietorakenteet ja algoritmit kurssin harjoitustyö
+# avl-tree
+Tietorakenteet ja algoritmit -course project
 
-/******************/
 gcc -o puu puu.c
 ./puu
-/******************/
+
